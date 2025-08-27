@@ -1,0 +1,4 @@
+FROM almalinux:9
+ENV COURSE="DevOps" \
+    TRAINER="Anand" \
+    DURATION="120hrs" \

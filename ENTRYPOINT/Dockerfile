@@ -1,3 +1,3 @@
 FROM almalinux:9
-CMD ["ping", "google.com"]
+CDM ["ping", "google.com"]
 # CMD will over ride

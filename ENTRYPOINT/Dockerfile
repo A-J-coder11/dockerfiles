@@ -1,0 +1,3 @@
+FROM almalinux:9
+CMD ["ping", "google.com"]
+# CMD will over ride

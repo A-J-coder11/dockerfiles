@@ -1,7 +1,7 @@
 FROM amazonlinux:9
 # CMD ["ping", "google.com"]
 RUN dnf install git -y
-RUN useradd Anand
+RUN useradd anand
 
 USER anand
 CMD ["google.com"]
